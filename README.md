@@ -1,5 +1,10 @@
 ### Olá👋
-Me chamo José Pedro, iniciando na carreira de desenvolvedor.
+Me chamo José Pedro, iniciando na carreira de desenvolvedor, venho da área de produção musical.
+Meu email: Jospnunes@gmail.com
+Link do meu linkedin: https://www.linkedin.com/in/jose-pereira-b72248169/
+link do meu instagram: https://www.instagram.com/josepedronp/
+
+
 
 <!--
 **jospnunes/jospnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

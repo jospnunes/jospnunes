@@ -1,6 +1,6 @@
 <!--
 ### Olá👋
-Me chamo José Pedro, iniciando na carreira de desenvolvedor, venho da área de produção musical.
+Me chamo José Pedro, iniciando na carreira de desenvolvedor.
 Meu email: Jospnunes@gmail.com
 Link do meu linkedin: https://www.linkedin.com/in/jose-pereira-b72248169/
 link do meu instagram: https://www.instagram.com/josepedronp/

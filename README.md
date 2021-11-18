@@ -9,7 +9,7 @@ link do meu instagram: https://www.instagram.com/josepedronp/
 
 
 <h1 align="center">Hi 👋, I'm José Pedro</h1>
-<h3 align="center">iniciando na carreira de desenvolvedor, venho da área de produção musical.</h3>
+<h3 align="center">iniciando na carreira de desenvolvedor.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -13,7 +13,6 @@ I build ERPs, payment integrations, and document tooling with <b>TypeScript</b> 
 | [idencify-mcp](https://github.com/jospnunes/idencify-mcp) | Whole-repo code intelligence for AI agents over MCP. |
 | [axum-api-template](https://github.com/jospnunes/axum-api-template) | Production-ready REST API template: Axum, Diesel/PostgreSQL, JWT auth, rate limiting, integration tests. |
 
-Client work (ERPs, mobile apps, payment systems) lives in private repositories — the projects above show how I build.
 
 ## Find me
 

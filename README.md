@@ -18,4 +18,3 @@ I build ERPs, payment integrations, and document tooling with <b>TypeScript</b> 
 
 [LinkedIn](https://www.linkedin.com/in/jospnunes) · [synthsolutions.com.br](https://www.synthsolutions.com.br/en) · josepedronunespereira@gmail.com
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jospnunes&show_icons=true&locale=en&layout=compact" alt="jospnunes" /></p>

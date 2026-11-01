@@ -1,10 +1,3 @@
-<h1 align="center">José Pedro Nunes Pereira</h1>
-
-<p align="center">
-Full-stack developer and founder of <a href="https://www.synthsolutions.com.br/en">Synth Solutions</a>, a software studio in Brazil.<br/>
-I build mobile apps, ERPs, payment integrations and developer tools with <b>TypeScript</b> and <b>Rust</b>.
-</p>
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">

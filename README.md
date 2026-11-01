@@ -16,10 +16,6 @@ I build mobile apps, ERPs, payment integrations and developer tools with <b>Type
 | [pdfsynth](https://github.com/jospnunes/pdfsynth) | Open source. Microservice that renders HTML templates and JSON data into PDF/A-1a documents. | Rust, headless Chrome, Ghostscript, Docker |
 | [axum-api-template](https://github.com/jospnunes/axum-api-template) | Open source. REST API template with JWT auth, rate limiting and integration tests. | Rust, Axum, Diesel, PostgreSQL |
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/jospnunes/insite/main/assets/demo.gif" alt="Terminal recording of insite analyzing a website: request phases fill in as bars, then each module settles on a verdict" width="720"/>
-</p>
-
 I also build client systems at Synth: gym and investment-firm ERPs, a management system for university teaching clinics, and landing pages.
 
 ## Stack
